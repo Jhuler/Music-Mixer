@@ -1,4 +1,4 @@
-# jd-music
+# Music Mixer
 
 ## Project setup
 ```
